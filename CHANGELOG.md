@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/andrewcompany87/deployment/compare/v1.0.0...v1.1.0) (2025-06-30)
+
+
+### Features
+
+* fix ([7b362d7](https://github.com/andrewcompany87/deployment/commit/7b362d758f940413a6428bd89f1742fd06155045))
+* new version ([5c22930](https://github.com/andrewcompany87/deployment/commit/5c229305479fa733fa499bb218a47c0264d61a8e))
+
 ## 1.0.0 (2025-06-30)
 
 
